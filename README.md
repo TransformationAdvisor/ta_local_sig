@@ -1,4 +1,4 @@
-## Verify Transformation Advisor Images
+## Verify Transformation Advisor Local
 
 ### Pre-req
 
