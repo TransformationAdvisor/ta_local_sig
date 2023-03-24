@@ -1,3 +1,7 @@
+**IMPORTANT:** This repo is deprecated. For up to date information on verifying ta local signature, please see the documentation here: https://www.ibm.com/docs/en/cta?topic=planning-security-considerations
+
+============
+
 ## Verify Transformation Advisor Local
 
 ### Pre-req
